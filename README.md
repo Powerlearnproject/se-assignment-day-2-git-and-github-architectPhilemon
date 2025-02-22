@@ -147,3 +147,4 @@ Common Challenges
 3:Automated Testing: Integrate automated tests into your workflow to catch issues early and ensure code reliability.
 4:Continuous Integration (CI): Use CI tools to automatically run tests and checks on new commits and pull requests.
 5:Consistent Workflow: Establish and follow a consistent workflow for branching, committing, and merging to ensure smooth collaboration.
+6:Backup and Recovery: Regularly backup your repository and understand how to recover from mistakes using Git commands like revert and reset.
