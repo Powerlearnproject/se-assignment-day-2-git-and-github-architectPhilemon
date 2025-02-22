@@ -25,7 +25,10 @@ version control help in maintaining project integrity through
 3:Repository Details: 
     .Repository Name: Choose a unique and descriptive name for your repository.
     .Description (Optional): Provide a brief description of what the repository is for.
-4:
+4:Repository Visibility: 
+Public: Anyone on the internet can see this repository. You choose who can commit.
+Private: You choose who can see and commit to this repository.
+5:
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
