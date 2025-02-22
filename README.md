@@ -65,7 +65,8 @@ Advantages of private repository
 1:Security: Reduces the risk of exposing vulnerabilities or sensitive information to the public.
 2:Control: More control over who can access and contribute to the repository, allowing for focused and managed collaboration.
 Disadvantages of private repository 
-1:
+1:Limited Collaboration: Restricted access may limit the number of potential contributors and the diversity of feedback.
+2:Cost: Private repositories often require a paid plan, which may not be suitable for all users or organizations.
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
