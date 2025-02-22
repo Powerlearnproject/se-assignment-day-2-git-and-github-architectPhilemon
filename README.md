@@ -1,4 +1,4 @@
-Commit Messages: "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8wgCKhpZ)
+DocumentationCommit Messages: "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8wgCKhpZ)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18337621&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
@@ -138,4 +138,6 @@ Common Challenges
 5:Understanding Git Commands: 
         Challenge: New users may find Git commands complex and intimidating.     
         Strategy: Use visual tools like GitHub Desktop, GitKraken, or integrated IDE tools to simplify Git operations.
-6:
+6:Documentation:
+          Challenge: Lack of documentation can make it hard for new contributors to understand the project.   
+          Strategy: Maintain a detailed README, contributing guidelines, and code comments to help new users get started.
