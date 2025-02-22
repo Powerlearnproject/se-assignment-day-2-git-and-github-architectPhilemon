@@ -135,3 +135,7 @@ Common Challenges
 4:Pull Request Quality: 
          Challenge: Pull requests that are too large or lack context can be difficult to review.
          Strategy: Keep pull requests small and focused, provide clear descriptions, and use templates to ensure necessary information is included.
+5:Understanding Git Commands: 
+        Challenge: New users may find Git commands complex and intimidating.     
+        Strategy: Use visual tools like GitHub Desktop, GitKraken, or integrated IDE tools to simplify Git operations.
+6:
