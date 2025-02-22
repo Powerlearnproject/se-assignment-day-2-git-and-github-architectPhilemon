@@ -132,3 +132,6 @@ Common Challenges
 3:Branch Management: 
         Challenge: Mismanaging branches can lead to a cluttered repository and integration issues.
         Strategy: Use a branching strategy like GitFlow, keep branches short-lived, and delete branches after merging.
+4:Pull Request Quality: 
+         Challenge: Pull requests that are too large or lack context can be difficult to review.
+         Strategy: Keep pull requests small and focused, provide clear descriptions, and use templates to ensure necessary information is included.
