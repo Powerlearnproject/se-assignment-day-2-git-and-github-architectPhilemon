@@ -115,5 +115,10 @@ When you need to heavily customize a project to fit your unique requirements, fo
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 GitHub issues and project boards are crucial for effective project management and collaboration within a development team, allowing users to track tasks, discuss ideas, prioritize work, and visualize the progress of a project in a centralized location, essentially acting as a digital task board where everyone can see the status of different issues and their associated work items, enhancing communication and transparency across the team. 
 can be used to effectively track bugs by centralizing issue reporting, assigning responsibility to developers, prioritizing critical issues, monitoring progress on bug fixes, and generating reports to identify recurring problems, all while facilitating task management by creating clear to-do lists, setting deadlines, and allowing for seamless collaboration between team members, ultimately improving project organization by providing a single source of truth for all project details, enhancing visibility into project status, and enabling better decision-making based on real-time data. 
+1:Real-time document collaboration
+2:File sharing and version control
+3:In-platform communication channels
+4:Feedback and commenting features
+5:Visual brainstorming and mind mapping tools
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
