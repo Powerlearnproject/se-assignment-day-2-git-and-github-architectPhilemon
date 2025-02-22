@@ -100,6 +100,7 @@ Once the pull request is approved, the project maintainer can merge your changes
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository.
+forking" creates a completely independent copy of a repository on a remote server, allowing you to modify it without affecting the original project, while "cloning" creates a local copy of a repository on your computer, enabling you to work on the code offline and make changes that can later be pushed back to the original repository if needed; essentially, 
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
