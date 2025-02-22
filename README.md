@@ -2,6 +2,11 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18337621&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+1:Conflict: Occurs when changes from different commits contradict each other and need to be resolved manually.
+2:Merge: Combining changes from different branches into a single branch.
+3:Pull Request: A method of submitting contributions to a project. It allows others to review and discuss the changes before merging them.
+4:Commit: A snapshot of your files at a specific point in time, along with a message describing the changes.
+5:Branch: A separate line of development, allowing you to work on different versions of a project simultaneously.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
