@@ -129,3 +129,6 @@ Common Challenges
 2:Commit Messages:
         Challenge: Poorly written commit messages make it difficult to understand the history of changes.
         Strategy: Write clear, concise, and descriptive commit messages that explain the purpose of the changes.
+3:Branch Management: 
+        Challenge: Mismanaging branches can lead to a cluttered repository and integration issues.
+        Strategy: Use a branching strategy like GitFlow, keep branches short-lived, and delete branches after merging.
