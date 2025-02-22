@@ -141,3 +141,5 @@ Common Challenges
 6:Documentation:
           Challenge: Lack of documentation can make it hard for new contributors to understand the project.   
           Strategy: Maintain a detailed README, contributing guidelines, and code comments to help new users get started.
+   Best practice 
+1:
