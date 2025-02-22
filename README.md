@@ -19,7 +19,8 @@ version control help in maintaining project integrity through
 5:History Tracking: Records every change made to the codebase, allowing you to revert to previous versions if needed.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 1:Sign In to GitHub: Log in to your GitHub account.
-2:
+2:Create a New Repository:
+          .
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
