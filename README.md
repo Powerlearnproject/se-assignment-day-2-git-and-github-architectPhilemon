@@ -143,4 +143,4 @@ Common Challenges
           Strategy: Maintain a detailed README, contributing guidelines, and code comments to help new users get started.
    Best practice 
 1:Frequent Commits: Commit changes frequently to ensure a detailed project history and easier conflict resolution.
-2:
+2:Code Reviews: Conduct regular code reviews to maintain code quality and share knowledge among team members.
