@@ -144,3 +144,5 @@ Common Challenges
    Best practice 
 1:Frequent Commits: Commit changes frequently to ensure a detailed project history and easier conflict resolution.
 2:Code Reviews: Conduct regular code reviews to maintain code quality and share knowledge among team members.
+3:Automated Testing: Integrate automated tests into your workflow to catch issues early and ensure code reliability.
+4:
